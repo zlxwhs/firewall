@@ -1,0 +1,1149 @@
+{
+  "packet": {},
+  "http": {
+    "adpacker.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adpacker.net",
+      "headers": null,
+      "body": null
+    },
+    "ad.yna.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad.yna.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "veta.naver.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "veta.naver.com",
+      "headers": null,
+      "body": null
+    },
+    "planad.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "planad.net",
+      "headers": null,
+      "body": null
+    },
+    "aedi.ai": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "aedi.ai",
+      "headers": null,
+      "body": null
+    },
+    "mobon.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mobon.net",
+      "headers": null,
+      "body": null
+    },
+    "nhnace.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "nhnace.com",
+      "headers": null,
+      "body": null
+    },
+    "splash-ad.classting.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "splash-ad.classting.com",
+      "headers": null,
+      "body": null
+    },
+    "ad-files.classting.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad-files.classting.com",
+      "headers": null,
+      "body": null
+    },
+    "middlepoint.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "middlepoint.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "kiesta.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "kiesta.net",
+      "headers": null,
+      "body": null
+    },
+    "nsmartad.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "nsmartad.com",
+      "headers": null,
+      "body": null
+    },
+    "authanalysis.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "authanalysis.com",
+      "headers": null,
+      "body": null
+    },
+    "adfork.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adfork.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "planmix.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "planmix.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "ads-api.kidsnote.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ads-api.kidsnote.com",
+      "headers": null,
+      "body": null
+    },
+    "i18n-pglstatp.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "i18n-pglstatp.com",
+      "headers": null,
+      "body": null
+    },
+    "unityads.unity3d.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "unityads.unity3d.com",
+      "headers": null,
+      "body": null
+    },
+    "pangolin*.sgsnssdk.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "pangolin*.sgsnssdk.com",
+      "headers": null,
+      "body": null
+    },
+    "cp.edl.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "cp.edl.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "ad.*.doubleclick.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad.*.doubleclick.net",
+      "headers": null,
+      "body": null
+    },
+    "mediavisor.doubleclick.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mediavisor.doubleclick.net",
+      "headers": null,
+      "body": null
+    },
+    "static.doubleclick.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "static.doubleclick.net",
+      "headers": null,
+      "body": null
+    },
+    "n4403ad.doubleclick.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "n4403ad.doubleclick.net",
+      "headers": null,
+      "body": null
+    },
+    "g.doubleclick.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "g.doubleclick.net",
+      "headers": null,
+      "body": null
+    },
+    "cdn-adn-*.rayjump.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "cdn-adn-*.rayjump.com",
+      "headers": null,
+      "body": null
+    },
+    "net.rayjump.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "net.rayjump.com",
+      "headers": null,
+      "body": null
+    },
+    "vungle.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "vungle.com",
+      "headers": null,
+      "body": null
+    },
+    "stream.spongead.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "stream.spongead.com",
+      "headers": null,
+      "body": null
+    },
+    "rainbownine.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "rainbownine.net",
+      "headers": null,
+      "body": null
+    },
+    "ad-brix.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad-brix.com",
+      "headers": null,
+      "body": null
+    },
+    "wtg-ads.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "wtg-ads.com",
+      "headers": null,
+      "body": null
+    },
+    "external-api.impression-neo.naver.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "external-api.impression-neo.naver.com",
+      "headers": null,
+      "body": null
+    },
+    "shoppingcall.me": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "shoppingcall.me",
+      "headers": null,
+      "body": null
+    },
+    "googletagservices.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "googletagservices.com",
+      "headers": null,
+      "body": null
+    },
+    "bidr.io": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "bidr.io",
+      "headers": null,
+      "body": null
+    },
+    "bidswitch.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "bidswitch.net",
+      "headers": null,
+      "body": null
+    },
+    "taboola.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "taboola.com",
+      "headers": null,
+      "body": null
+    },
+    "pubmatic.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "pubmatic.com",
+      "headers": null,
+      "body": null
+    },
+    "3lift.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "3lift.com",
+      "headers": null,
+      "body": null
+    },
+    "casalemedia.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "casalemedia.com",
+      "headers": null,
+      "body": null
+    },
+    "33across.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "33across.com",
+      "headers": null,
+      "body": null
+    },
+    "openx.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "openx.net",
+      "headers": null,
+      "body": null
+    },
+    "criteo.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "criteo.com",
+      "headers": null,
+      "body": null
+    },
+    "rubiconproject.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "rubiconproject.com",
+      "headers": null,
+      "body": null
+    },
+    "smartadserver.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "smartadserver.com",
+      "headers": null,
+      "body": null
+    },
+    "lijit.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "lijit.com",
+      "headers": null,
+      "body": null
+    },
+    "360yield.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "360yield.com",
+      "headers": null,
+      "body": null
+    },
+    "quantserve.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "quantserve.com",
+      "headers": null,
+      "body": null
+    },
+    "criteo.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "criteo.net",
+      "headers": null,
+      "body": null
+    },
+    "adnxs.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adnxs.com",
+      "headers": null,
+      "body": null
+    },
+    "adskeeper.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adskeeper.com",
+      "headers": null,
+      "body": null
+    },
+    "widerplanet.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "widerplanet.com",
+      "headers": null,
+      "body": null
+    },
+    "ad4989.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad4989.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "marketingking.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "marketingking.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "dable.io": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "dable.io",
+      "headers": null,
+      "body": null
+    },
+    "catad5959.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "catad5959.com",
+      "headers": null,
+      "body": null
+    },
+    "targetpush.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "targetpush.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "netinsight.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "netinsight.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "realclick.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "realclick.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "googleadservices.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "googleadservices.com",
+      "headers": null,
+      "body": null
+    },
+    "ad-mapps.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad-mapps.com",
+      "headers": null,
+      "body": null
+    },
+    "acrosspf.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "acrosspf.com",
+      "headers": null,
+      "body": null
+    },
+    "adpnut.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adpnut.com",
+      "headers": null,
+      "body": null
+    },
+    "thetopic.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "thetopic.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "msadsense.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "msadsense.com",
+      "headers": null,
+      "body": null
+    },
+    "interworksmedia.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "interworksmedia.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "adplex.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adplex.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "tadapi.info": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "tadapi.info",
+      "headers": null,
+      "body": null
+    },
+    "clickmon.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "clickmon.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "mrep.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mrep.kr",
+      "headers": null,
+      "body": null
+    },
+    "fastview.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "fastview.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "keywordsconnect.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "keywordsconnect.com",
+      "headers": null,
+      "body": null
+    },
+    "adhooah.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adhooah.com",
+      "headers": null,
+      "body": null
+    },
+    "contentsfeed.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "contentsfeed.com",
+      "headers": null,
+      "body": null
+    },
+    "mediacategory.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mediacategory.com",
+      "headers": null,
+      "body": null
+    },
+    "innorame.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "innorame.com",
+      "headers": null,
+      "body": null
+    },
+    "ad.doubleclick.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ad.doubleclick.net",
+      "headers": null,
+      "body": null
+    },
+    "adbinead.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adbinead.com",
+      "headers": null,
+      "body": null
+    },
+    "cizion.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "cizion.com",
+      "headers": null,
+      "body": null
+    },
+    "adop.cc": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adop.cc",
+      "headers": null,
+      "body": null
+    },
+    "stax.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "stax.kr",
+      "headers": null,
+      "body": null
+    },
+    "megadata.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "megadata.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "impactify.io": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "impactify.io",
+      "headers": null,
+      "body": null
+    },
+    "teads.tv": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "teads.tv",
+      "headers": null,
+      "body": null
+    },
+    "exelbid.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "exelbid.com",
+      "headers": null,
+      "body": null
+    },
+    "adinc.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adinc.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "innity.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "innity.net",
+      "headers": null,
+      "body": null
+    },
+    "kodcad.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "kodcad.kr",
+      "headers": null,
+      "body": null
+    },
+    "hancomad.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "hancomad.com",
+      "headers": null,
+      "body": null
+    },
+    "ahnlabad.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ahnlabad.com",
+      "headers": null,
+      "body": null
+    },
+    "tagtree.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "tagtree.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "onepx.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "onepx.kr",
+      "headers": null,
+      "body": null
+    },
+    "tapioni.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "tapioni.com",
+      "headers": null,
+      "body": null
+    },
+    "shukriya90.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "shukriya90.com",
+      "headers": null,
+      "body": null
+    },
+    "trafficforce.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "trafficforce.com",
+      "headers": null,
+      "body": null
+    },
+    "adbc.io": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adbc.io",
+      "headers": null,
+      "body": null
+    },
+    "realssp.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "realssp.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "bizspring.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "bizspring.net",
+      "headers": null,
+      "body": null
+    },
+    "nefing.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "nefing.com",
+      "headers": null,
+      "body": null
+    },
+    "deployads.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "deployads.com",
+      "headers": null,
+      "body": null
+    },
+    "mediabp.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mediabp.kr",
+      "headers": null,
+      "body": null
+    },
+    "newscover.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "newscover.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "vrixon.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "vrixon.com",
+      "headers": null,
+      "body": null
+    },
+    "piclick.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "piclick.kr",
+      "headers": null,
+      "body": null
+    },
+    "ads-twitter.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ads-twitter.com",
+      "headers": null,
+      "body": null
+    },
+    "2mdn.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "2mdn.net",
+      "headers": null,
+      "body": null
+    },
+    "adxadserv.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adxadserv.com",
+      "headers": null,
+      "body": null
+    },
+    "admax.me": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "admax.me",
+      "headers": null,
+      "body": null
+    },
+    "nitropay.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "nitropay.com",
+      "headers": null,
+      "body": null
+    },
+    "bestcontentitem.top": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "bestcontentitem.top",
+      "headers": null,
+      "body": null
+    },
+    "contentcave.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "contentcave.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "adpopcorn.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adpopcorn.com",
+      "headers": null,
+      "body": null
+    },
+    "koreanzad.xyz": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "koreanzad.xyz",
+      "headers": null,
+      "body": null
+    },
+    "admonseller.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "admonseller.com",
+      "headers": null,
+      "body": null
+    },
+    "applovin.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "applovin.com",
+      "headers": null,
+      "body": null
+    },
+    "andbeyond.media": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "andbeyond.media",
+      "headers": null,
+      "body": null
+    },
+    "adlooxtracking.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adlooxtracking.com",
+      "headers": null,
+      "body": null
+    },
+    "aniview.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "aniview.com",
+      "headers": null,
+      "body": null
+    },
+    "tnkad.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "tnkad.net",
+      "headers": null,
+      "body": null
+    },
+    "advertising.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "advertising.com",
+      "headers": null,
+      "body": null
+    },
+    "contextweb.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "contextweb.com",
+      "headers": null,
+      "body": null
+    },
+    "ndexww.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "ndexww.com",
+      "headers": null,
+      "body": null
+    },
+    "adsrvr.org": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adsrvr.org",
+      "headers": null,
+      "body": null
+    },
+    "admanmedia.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "admanmedia.com",
+      "headers": null,
+      "body": null
+    },
+    "sitescout.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "sitescout.com",
+      "headers": null,
+      "body": null
+    },
+    "undertone.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "undertone.com",
+      "headers": null,
+      "body": null
+    },
+    "admaru.net": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "admaru.net",
+      "headers": null,
+      "body": null
+    },
+    "pltapad.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "pltapad.com",
+      "headers": null,
+      "body": null
+    },
+    "mobwithad.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mobwithad.com",
+      "headers": null,
+      "body": null
+    },
+    "adxcorp.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adxcorp.kr",
+      "headers": null,
+      "body": null
+    },
+    "mmnneo.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "mmnneo.com",
+      "headers": null,
+      "body": null
+    },
+    "amazon-adsystem.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "amazon-adsystem.com",
+      "headers": null,
+      "body": null
+    },
+    "tsyndicate.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "tsyndicate.com",
+      "headers": null,
+      "body": null
+    },
+    "vntsm.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "vntsm.com",
+      "headers": null,
+      "body": null
+    },
+    "optad360.io": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "optad360.io",
+      "headers": null,
+      "body": null
+    },
+    "admixer.co.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "admixer.co.kr",
+      "headers": null,
+      "body": null
+    },
+    "xlviirdr.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "xlviirdr.com",
+      "headers": null,
+      "body": null
+    },
+    "xn--s-4z5e652a53k.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "xn--s-4z5e652a53k.com",
+      "headers": null,
+      "body": null
+    },
+    "categorysort.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "categorysort.com",
+      "headers": null,
+      "body": null
+    },
+    "tenping.kr": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "tenping.kr",
+      "headers": null,
+      "body": null
+    },
+    "infolinks.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "infolinks.com",
+      "headers": null,
+      "body": null
+    },
+    "adcastmarket.com": {
+      "reason": "250727 block policy",
+      "action": "block",
+      "method": null,
+      "url": "adcastmarket.com",
+      "headers": null,
+      "body": null
+    }
+  }
+}
