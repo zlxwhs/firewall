@@ -27,3 +27,5 @@ class HttpLog(Log):
     url: str
     headers: str | None
     body: str | None
+    threat: float | None
+    threat_result: str | None
